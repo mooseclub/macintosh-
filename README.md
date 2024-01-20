@@ -8,7 +8,7 @@ when it comes to display macintosh was king in the department having a 9 in (23 
 ![Computer_macintosh_128k,_1984_(all_about_Apple_onlus)](https://github.com/mooseclub/macintosh-/assets/156183520/e61e6ac7-bb66-4588-95e6-9821ffa55e09)
 
 
-#hp laptop 
+# HP laptop- 
 *As we move away from the past its time to look at the hp laptop*
 **IT has 16 gb of ram**
 237 gb of storage 
