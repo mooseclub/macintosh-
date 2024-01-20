@@ -5,3 +5,13 @@ moving on it also has a motorola processing system. Introduced in 1979 by Motoro
 it has 128 KB of ram which means it today’s graphics designing tools required a good GPU, at least 8 GB RAM and storage since they are heavy applications. In 4GB, there will be much of lags, stutters & frequent crashes of the laptop. it also comes with a 	3+1⁄2 inch floppy disk for more remvoable storage spaace.
 when it comes to display macintosh was king in the department having a 9 in (23 cm) monochrome, 512 × 342 display 
 
+
+
+#hp laptop 
+*As we move away from the past its time to look at the hp laptop*
+**IT has 16 gb of ram**
+237 gb of storage 
+it uses a AMD ryzen 5 7520u with radeon grapics 2.80 GHz processor. 
+
+
+you be the judge dear audience which is better?
