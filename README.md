@@ -5,6 +5,7 @@ moving on it also has a motorola processing system. Introduced in 1979 by Motoro
 it has 128 KB of ram which means it today’s graphics designing tools required a good GPU, at least 8 GB RAM and storage since they are heavy applications. In 4GB, there will be much of lags, stutters & frequent crashes of the laptop. it also comes with a 	3+1⁄2 inch floppy disk for more remvoable storage spaace.
 when it comes to display macintosh was king in the department having a 9 in (23 cm) monochrome, 512 × 342 display 
 
+![Computer_macintosh_128k,_1984_(all_about_Apple_onlus)](https://github.com/mooseclub/macintosh-/assets/156183520/e61e6ac7-bb66-4588-95e6-9821ffa55e09)
 
 
 #hp laptop 
