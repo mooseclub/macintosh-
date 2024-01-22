@@ -15,4 +15,4 @@ when it comes to display macintosh was king in the department having a 9 in (23 
 it uses a AMD ryzen 5 7520u with radeon grapics 2.80 GHz processor. 
 
 
-"you be the judge dear audience which is better?"
+ >you be the judge dear audience which is better?.
